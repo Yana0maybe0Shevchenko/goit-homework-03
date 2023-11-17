@@ -186,9 +186,13 @@ text-transform: uppercase;
 
 .list-fourth-section {
     display: flex;
-    gap: 8px;
+    padding: 120px, 0;
+       
 }
 
+.title-fourth-section {
+    margin-bottom: 72px;
+}
 .list-items {
     background-color: #FFFFFF;
 }
