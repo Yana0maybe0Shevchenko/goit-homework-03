@@ -38,8 +38,8 @@ button {
 .header-container {
     display: flex;
     width: 1158px;
-    margin: 0, auto;
-    padding: 0, 15px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 
 
@@ -109,7 +109,7 @@ margin-right: 76px;
     letter-spacing: 0.32px;
     display: flex;
     gap: 40px;
-    padding: 24px, 0;
+    padding: 24px 0;
 }
 
 .menu-list:hover {
@@ -206,7 +206,7 @@ margin-right: 76px;
 
 .list-fourth-section {
     display: flex;
-    padding: 120px, 0;
+    padding: 120px 0;
        
 }
 
