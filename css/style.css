@@ -186,8 +186,10 @@ margin-right: 76px;
 }
 
 .title-second-section {
-    visibility: hidden;
+
 }
+
+.visually-hidden:not(:focus):not(:active) 
 
 .item-in-second-section-list {
     width: calc((100% - 72px) / 4); 
@@ -307,4 +309,7 @@ margin-right: 76px;
 /* blocks */
 
 /* загальний блок */
+.container {
+    width: 1158px;
 
+}
