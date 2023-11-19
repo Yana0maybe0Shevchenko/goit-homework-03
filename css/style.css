@@ -178,7 +178,15 @@ margin-right: 76px;
     letter-spacing: 0.02em;
     color: #2e2f42 ;
     padding: 120px 0;
-    
+    margin-bottom: 8px; 
+}
+
+.title-second-section {
+    visibility: hidden;
+}
+
+.item-in-second-section-list {
+    width: calc((100% - 72px) / 4); 
 }
 
 .paragraph-section-section {
@@ -190,6 +198,8 @@ margin-right: 76px;
 
 .list-second-section {
     display: flex;
+    gap: 24px;
+
 }
 
 /* third section */
