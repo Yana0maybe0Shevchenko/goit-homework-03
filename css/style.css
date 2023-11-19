@@ -179,6 +179,7 @@ margin-right: 76px;
     color: #2e2f42 ;
     padding: 120px 0;
     margin-bottom: 8px; 
+    text-align: center
 }
 
 .title-second-section {
@@ -194,6 +195,7 @@ margin-right: 76px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-align: center
 }
 
 .list-second-section {
@@ -206,10 +208,13 @@ margin-right: 76px;
 
 .list-third-section {
     display: flex;
+    gap: 24px;
 
 }
 .third-section {
     background-color: #F4F4FD;
+    padding: 120px 0;
+
 }
 
 .title-third-section {
@@ -219,6 +224,12 @@ margin-right: 76px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px; 
+}
+
+.container-third-section {
+    padding: 32px 0;
+
 }
 
 /* fourth section */
@@ -234,6 +245,9 @@ margin-right: 76px;
 }
 .list-items {
     background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4); 
+    border-radius: 0px 0px 4px 4px;
+
 }
 
 .footer {
