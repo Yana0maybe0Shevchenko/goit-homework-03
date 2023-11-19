@@ -189,7 +189,6 @@ margin-right: 76px;
 
 }
 
-.visually-hidden:not(:focus):not(:active) 
 
 .item-in-second-section-list {
     width: calc((100% - 72px) / 4); 
