@@ -203,6 +203,7 @@ margin-right: 76px;
     font-weight: 500;
     line-height: 24px; /* 120% */
     letter-spacing: 0.4px;
+    margin-bottom: 8px
 }
 
 .paragraph-fourth-section {
@@ -315,7 +316,6 @@ margin-right: 76px;
     line-height: 40px; /* 111.111% */
     letter-spacing: 0.72px;
     text-transform: capitalize;
-    margin-bottom: 8px
 }
 
 .list-items {
